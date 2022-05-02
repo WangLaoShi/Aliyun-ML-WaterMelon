@@ -1,0 +1,14 @@
+# use the latest version
+numpy
+# use the 2021-11-06 version
+# numpy==1.21.4
+
+# use the latest version
+scikit-learn
+# use the 2021-11-06 version
+# scikit-learn==1.0.1
+
+# use the latest version
+matplotlib
+# use the 2021-11-06 version
+# matplotlib==3.4.1
